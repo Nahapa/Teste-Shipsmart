@@ -5,8 +5,8 @@
 * Usando Laravel Framework 8.x, desenvolva o CRUD de uma agenda de contatos, que deve conter os seguintes campos: CEP, Estado, Cidade, Bairro, Endereço, Numero, Nome de Contato, Email de Contato e Telefone de Contato;
 * O campo de Estado, tem que ser um combobox/select com a lista vinculada a uma tabela da base de dados relacional;
 * Ao digitar um CEP, os demais campos devem ser preenchidos automaticamente com os dados vindo de uma API de endereços externa. (Use esta aqui: https://docs.awesomeapi.com.br/api-cep)
-* Os dados devem ser gravados em um banco Relacional e um Não-Relacional;
-* Quando os dados forem alterados, devem ser alterados no banco Relacional e Não-Relacional;
+* *Os dados devem ser gravados em um banco Relacional e um Não-Relacional*;
+* *Quando os dados forem alterados, devem ser alterados no banco Relacional e Não-Relacional*;
 * ~~A listagem deve ser feita a partir dos dados gravados no banco Não-Relacional;~~
 * Como framework javascript, utilize Vue.js, React.js ou jQuery (preferencia Vue.js) ou Javascript Puro;
 * Como framework CSS, utilize Bootstrap 5.x ou TailwindCSS 2.x
